@@ -66,7 +66,7 @@ This project utilizes ResNet-50 for the detection of knee arthritis and applies 
 
 ## Results
 Here's a Graph to show the performance of this model. Even though the accuracy gets stagnant after 50 epochs, we see the loss reducing every epoch. 
-![Confusion Matrix]](https://github.com/eshaanmathakari/knee-arthritis-detection-algo/blob/main/images/graphs.png)
+
 ![Confusion Matrix]](images/graphs.png)
 
 Here's a screenshot to show the performance of this model in *Real time*.
