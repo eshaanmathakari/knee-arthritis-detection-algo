@@ -62,4 +62,15 @@ pip install -r requirements.txt
 
 ## Conclusion
 
-This project utilizes ResNet-50 for the detection of knee arthritis and applies data augmentation techniques to improve the model's performance. The shift to ResNet-50 and the addition of augmented data aims to achieve higher accuracy and robustness in detecting different severity levels of knee arthritis.
+This project utilizes ResNet-50 for the detection of knee arthritis and applies data augmentation techniques to improve the model's performance. The shift to ResNet-50 and the addition of augmented data aims to achieve higher accuracy and robustness in detecting different severity levels of knee arthritis. This algorithm gives best accuracy of `82.63%`.
+
+## Results
+Here's a Graph to show the performance of this model. Even though the accuracy gets stagnant after 50 epochs, we see the loss reducing every epoch. 
+![Confusion Matrix]](https://github.com/eshaanmathakari/knee-arthritis-detection-algo/blob/main/images/graphs.png)
+
+Here's a screenshot to show the performance of this model in *Real time*.
+![Confusion Matrix]](https://github.com/eshaanmathakari/knee-arthritis-detection-algo/blob/main/images/Detection-in-realtime.png)
+
+Here's a confusion matrix to show the performance of this model. 
+![Confusion Matrix]](https://github.com/eshaanmathakari/knee-arthritis-detection-algo/blob/main/images/confusion-matrix.png)
+
