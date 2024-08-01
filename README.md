@@ -57,7 +57,7 @@ Ensure you have the following libraries installed to run the notebooks:
 You can install these dependencies using pip:
 
 ```bash
-pip install timm torch torchvision numpy pillow matplotlib
+pip install -r requirements.txt
 ```
 
 ## Conclusion
