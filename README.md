@@ -70,8 +70,8 @@ Here's a Graph to show the performance of this model. Even though the accuracy g
 ![Confusion Matrix](images/graphs.png)
 
 Here's a screenshot to show the performance of this model in *Real time*.
-![Confusion Matrix]](https://github.com/eshaanmathakari/knee-arthritis-detection-algo/blob/main/images/Detection-in-realtime.png)
+![Confusion Matrix](images/Detection-in-realtime.png)
 
 Here's a confusion matrix to show the performance of this model. 
-![Confusion Matrix]](https://github.com/eshaanmathakari/knee-arthritis-detection-algo/blob/main/images/confusion-matrix.png)
+![Confusion Matrix](images/confusion-matrix.png)
 
